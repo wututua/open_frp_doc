@@ -28,7 +28,7 @@
 身份证号：114514919810
 身份证照片：
 1.jpg(身份证正面)
-2.jpg(身份证反面)Copy to clipboardErrorCopiedCopy to clipboardErrorCopied
+2.jpg(身份证反面)
 ```
 
 ## 使用海外节点是否需要实名验证 <a href="#shi-yong-hai-wai-jie-dian-shi-fou-xu-yao-shi-ming-yan-zheng" id="shi-yong-hai-wai-jie-dian-shi-fou-xu-yao-shi-ming-yan-zheng"></a>

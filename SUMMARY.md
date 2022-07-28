@@ -5,18 +5,18 @@
 ## 常见问题 <a href="#docs" id="docs"></a>
 
 * [常见问题: 网路相关](docs/net.md)
-* [常见错误](docs/error.md)
+* [常见错误](docs/creating-your-first-task.md)
 * [账户相关问题](docs/account.md)
 * [常见问题](docs/anothor.md)
 * [给高级用户的提示](docs/geek.md)
 * [实名验证相关问题](docs/realname.md)
 
-## Fundamentals
+## 一些提示 <a href="#docs" id="docs"></a>
 
-* [Projects](fundamentals/projects.md)
-* [Members](fundamentals/members.md)
-* [Task Lists](fundamentals/task-lists.md)
-* [Tasks](fundamentals/tasks.md)
+* [安全提示](docs-1/security.md)
+* [Members](docs-1/members.md)
+* [Task Lists](docs-1/task-lists.md)
+* [Tasks](docs-1/tasks.md)
 
 ## Use Cases
 
