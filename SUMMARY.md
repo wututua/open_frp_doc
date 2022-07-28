@@ -14,9 +14,8 @@
 ## 一些提示 <a href="#docs" id="docs"></a>
 
 * [安全提示](fundamentals/projects.md)
-* [全端口转发](docs-1/forward.md)
-* [Task Lists](fundamentals/task-lists.md)
-* [Tasks](fundamentals/tasks.md)
+* [全端口转发](fundamentals/members.md)
+* [如何获取访问者真实IP地址](docs-1/getip.md)
 
 ## Use Cases
 
