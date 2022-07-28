@@ -5,8 +5,8 @@
 ## 常见问题 <a href="#docs" id="docs"></a>
 
 * [常见问题: 网路相关](docs/net.md)
-* [Creating your first task](docs/creating-your-first-task.md)
-* [Advanced permissions](docs/advanced-permissions.md)
+* [常见错误](docs/error/README.md)
+  * [Advanced permissions](docs/error/advanced-permissions.md)
 
 ## Fundamentals
 
