@@ -14,13 +14,13 @@ description: 这里我们只看您出错的最后一行
 
 如果出现下图的情况，这表明您可能使用了国内节点穿透了HTTP(S)隧道，将隧道换为海外节点即可
 
-![](../../.gitbook/assets/https\_china.png)
+![](../.gitbook/assets/https\_china.png)
 
 ## 服务未开启 <a href="#fu-wu-wei-kai-qi" id="fu-wu-wei-kai-qi"></a>
 
 如果您出现下图的错误
 
-![](../../.gitbook/assets/no\_target.png)
+![](../.gitbook/assets/no\_target.png)
 
 则表明您的本地服务未开启/没有程序正在监听此端口/连接到本地服务时被拒绝
 
@@ -28,7 +28,7 @@ description: 这里我们只看您出错的最后一行
 
 您可以参考下图来逐一排查原因
 
-![](../../.gitbook/assets/no\_target\_error\_resolve.png)
+![](../.gitbook/assets/no\_target\_error\_resolve.png)
 
 ## 其他错误 <a href="#qi-ta-cuo-wu" id="qi-ta-cuo-wu"></a>
 

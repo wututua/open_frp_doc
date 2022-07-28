@@ -5,8 +5,11 @@
 ## 常见问题 <a href="#docs" id="docs"></a>
 
 * [常见问题: 网路相关](docs/net.md)
-* [常见错误](docs/error/README.md)
-  * [Advanced permissions](docs/error/advanced-permissions.md)
+* [常见错误](docs/error.md)
+* [账户相关问题](docs/account.md)
+* [常见问题](docs/anothor.md)
+* [给高级用户的提示](docs/geek.md)
+* [实名验证相关问题](docs/realname.md)
 
 ## Fundamentals
 
