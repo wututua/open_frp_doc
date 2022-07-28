@@ -13,10 +13,10 @@
 
 ## 一些提示 <a href="#docs" id="docs"></a>
 
-* [安全提示](docs-1/security.md)
-* [Members](docs-1/members.md)
-* [Task Lists](docs-1/task-lists.md)
-* [Tasks](docs-1/tasks.md)
+* [安全提示](fundamentals/projects.md)
+* [全端口转发](docs-1/forward.md)
+* [Task Lists](fundamentals/task-lists.md)
+* [Tasks](fundamentals/tasks.md)
 
 ## Use Cases
 
